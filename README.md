@@ -14,13 +14,7 @@ The goal of this project was to transform raw hospital data into an interactive 
 [![PivotTables](https://img.shields.io/badge/PivotTables-Interactive_Report-blue?style=for-the-badge)]()
 [![Data Analytics](https://img.shields.io/badge/Data-Analytics-orange?style=for-the-badge)]()
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedinusername)
-
-
----
-# 📊 Dashboard Preview
-
-![Hospital Emergency Dashboard](Dashboard_Screenshot.png)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-chaudhary-4b2459236/)
 
 ---
 
@@ -101,6 +95,13 @@ Built interactive dashboard components including:
 
 ---
 
+# 📷 Dashboard Screenshot
+
+## Main Dashboard
+![Dashboard Preview](Dashboard_Screenshot.png)
+
+---
+
 # 📈 Key Insights
 
 - Average patient wait time was approximately **35 minutes**
@@ -121,13 +122,6 @@ Built interactive dashboard components including:
 ✅ Drill Navigation  
 ✅ Professional Dashboard Layout  
 ✅ Business Insights Generation  
-
----
-
-# 📷 Dashboard Screenshot
-
-## Main Dashboard
-![Dashboard Preview](Dashboard_Screenshot.png)
 
 ---
 
@@ -159,24 +153,8 @@ This dashboard can help hospital management teams:
 
 ---
 
-# 📁 Files Included
+## 📬 Feedback
 
-| File Name | Description |
-|---|---|
-| Hospital_ER_Dashboard_Portfolio.xlsx | Main Excel Dashboard File |
-| Dashboard_Screenshot.png | Dashboard Preview Image |
-| README.md | Project Documentation |
+If you have any suggestions or feedback, feel free to connect with me on LinkedIn.
 
----
-
-# 🔗 Author
-
-**Aman Chaudhary**
-
-Aspiring Data Analyst | Excel | SQL | Power BI | Dashboarding
-
----
-
-# ⭐ If You Like This Project
-
-Feel free to star this repository and connect with me on LinkedIn.
+👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/aman-chaudhary-4b2459236/)
