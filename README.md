@@ -9,12 +9,18 @@ The goal of this project was to transform raw hospital data into an interactive 
 
 ---
 
-[![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
-[![Power Query](https://img.shields.io/badge/Power_Query-Data_Cleaning-yellow?style=for-the-badge)]()
-[![PivotTables](https://img.shields.io/badge/PivotTables-Interactive_Report-blue?style=for-the-badge)]()
-[![Data Analytics](https://img.shields.io/badge/Data-Analytics-orange?style=for-the-badge)]()
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)]()
+[![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]
+[![Power Query](https://img.shields.io/badge/Power_Query-Data_Cleaning-yellow?style=for-the-badge)]
+[![PivotTables](https://img.shields.io/badge/PivotTables-Interactive_Report-blue?style=for-the-badge)]
+[![Data Analytics](https://img.shields.io/badge/Data-Analytics-orange?style=for-the-badge)]
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-chaudhary-4b2459236/)
+
+---
+
+# 📂 Project File
+
+[Click Here to View/Download Excel Dashboard](Hospital_ER_Dashboard.xlsx)
 
 ---
 
@@ -46,6 +52,12 @@ The goal of this project was to transform raw hospital data into an interactive 
 
 ---
 
+# 📷 Dashboard Screenshot
+
+## Main Dashboard
+[![Dashboard Preview](Dashboard_Screenshot.png)](Hospital_ER_Dashboard.xlsx)
+
+---
 # 📂 Project Workflow
 
 ## 1️⃣ Data Cleaning & Preparation
@@ -92,13 +104,6 @@ Built interactive dashboard components including:
 - Year Slicer
 - Linked Charts
 - Hyperlinked Navigation
-
----
-
-# 📷 Dashboard Screenshot
-
-## Main Dashboard
-![Dashboard Preview](Dashboard_Screenshot.png)
 
 ---
 
